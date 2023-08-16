@@ -3,10 +3,20 @@
 My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** at [Universitas Bumigora](https://universitasbumigora.ac.id). Very passionate about programming stuff, i love challange, i willing to learn a new technology based on my interest. Looking forward to persue my career and contribute in society as a Software Engineer (Hopefully).  
 
 - I’m currently working on a mini project based on a website called **AriaLounge**, AriaLounge is a Music Streaming Website that i develop, by using HTML, CSS, PHP & JavaScript as a Main Languange.
-- Have been using JavaScript and PHP on almost every project in study process.
-- Have a good knowledge about Machine Learning and Java.
+- Using JavaScript & PHP in most of my project.
+- Have a good knowledge about Machine Learning & Mobile Dev.
 - Currently learning React Native and React Js
 
+### Tech Stack
+  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
+  <a href="#"><img align="left" alt="PHP" title="PHP" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" /></a>
+  <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" 
+src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" /></a>
+  <br>
+  <br>
+
+### GitHub Stats
 <p align="left">
 <a href="https://github.com/warizmy">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=warizmy&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -17,6 +27,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** at [Universitas Bum
     
 📫 How to reach me: 
 - [Linkedin](https://www.linkedin.com/in/abid-rizmi-a5b37424a/).
+- [Twitter](https://twitter.com/abidrzmi).
 
   
 
