@@ -2,10 +2,9 @@
 
 My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** at [Universitas Bumigora](https://universitasbumigora.ac.id). I'm very passionate about programming stuff, i love challange, i willing to learn a new technology based on my interest. Looking forward to persue my career and contribute in society as a Software Engineer (Hopefully).  
 
-- I’m currently working on a mini project called **AriaLounge**, AriaLounge is a Music Streaming Website that i develop by using HTML, CSS, PHP & JavaScript as a Main Languange.
+- I’m currently Learning about React Js and Front End stuff at [Dicoding](https://www.dicoding.com). 
 - I'm using JavaScript & PHP in most of my project.
 - Have a good knowledge about Machine Learning & Mobile Dev.
-- Currently learning React Native and React Js.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
