@@ -12,10 +12,6 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
   <br>
 
     
-📫 How to reach me: 
-- [Instagram](https://instagram.com/abidkhawarizmii?igshid=MjEwN2IyYWYwYw==).
-- [Twitter](https://twitter.com/abidrzmi).
-
   
 
 
