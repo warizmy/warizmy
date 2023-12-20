@@ -7,9 +7,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 - Have a good knowledge about Java.
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <br>
-  <br>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
     
   
