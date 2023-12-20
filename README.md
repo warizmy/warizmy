@@ -6,6 +6,8 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 - Mostly, I'm using JavaScript for my project.
 - Have a good knowledge about Java.
 
+Feel free to reach me!
+
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,java,postgres,supabase&perline=4)](https://skillicons.dev)
 
