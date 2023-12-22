@@ -4,7 +4,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 
 - Currently, I am taking a course and learning about Web Development at [Dicoding](https://www.dicoding.com). 
 - Mostly, I'm using JavaScript for my project.
-- Have a good knowledge about Java.
+- Have a good knowledge about Java and Machine Learning.
 
 If you interesting to collaborate, feel free to reach me!
 
