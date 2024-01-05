@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas Bumigora](https://universitasbumigora.ac.id) (2021-now), very passionate about programming stuff, willing to learn a new technology based on my interest and i want to become a Software developer (hopefully).
+My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas Bumigora](https://universitasbumigora.ac.id) (2021-now), very passionate about programming stuff, willing to learn a new technology and i want to become a Software developer (hopefully).
 
 - Currently, I am taking a course and learning about Web Development at [Dicoding](https://www.dicoding.com). 
 - Mostly, I'm using JavaScript for my project.
