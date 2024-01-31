@@ -4,7 +4,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 
 - Graduate from Web Development Course (Front End Web & Back End Web ) On [Dicoding](https://www.dicoding.com) (2024)
 - Mostly, I'm using JavaScript for my project.
-- Have a good knowledge about Java and Machine Learning.
+- Have a good knowledge about Java, PHP, Laravel and Machine Learning.
 
 If you interesting to collaborate, feel free to [reach me!](https://www.linkedin.com/in/abidrizmi/) 
 
