@@ -6,7 +6,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 - Mostly, I'm using JavaScript for my project.
 - Have a good knowledge about Java and Machine Learning.
 
-If you interesting to collaborate, feel free to reach me!
+If you interesting to collaborate, feel free to [reach me!](https://www.linkedin.com/in/abidrizmi/) 
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,java,postgres,supabase&perline=4)](https://skillicons.dev)
