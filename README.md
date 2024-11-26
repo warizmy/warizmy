@@ -11,7 +11,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 If you interesting to collaborate, feel free to [reach me!](https://www.linkedin.com/in/abidrizmi/) 
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,php,java,laravel,postgres,supabase&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,java,postgres,supabase&perline=5)](https://skillicons.dev)
 
     
   
