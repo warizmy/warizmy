@@ -7,7 +7,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 - Have a strong knowledge in Web Development, especially in Front-End
 - Have a good knowledge about Java and Machine Learning.
 
-If you interesting to collaborate, feel free to [reach me!](https://www.linkedin.com/in/abidrizmi/) 
+If you interesting to collaborate, feel free to [reach me!](abidrizmi.netlify.app) 
 
 ### Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,java,postgres,supabase&perline=4)](https://skillicons.dev)
