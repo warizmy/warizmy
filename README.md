@@ -10,7 +10,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 If you interesting to collaborate, feel free to [reach me!](https://abidrizmi.netlify.app) 
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,java,postgres,supabase&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,bootstrap,sass,express,python,postgres,supabase&perline=4)](https://skillicons.dev)
 
     
   
