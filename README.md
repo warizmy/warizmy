@@ -5,7 +5,7 @@ My name is **Muhammad Abid Al Khawarizmi**. Im a **Student** from [Universitas B
 - Graduate from Web Development Course (Front-End Web & Back-End Web ) On [Dicoding](https://www.dicoding.com) (2024).
 - Mostly, I'm using JavaScript for my project.
 - Have a strong knowledge in Web Development, especially in Front-End
-- Have a good knowledge about Java and Machine Learning.
+- Have a good knowledge about Machine Learning.
 
 If you interesting to collaborate, feel free to [reach me!](https://abidrizmi.netlify.app) 
 
