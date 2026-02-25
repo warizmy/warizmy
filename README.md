@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A passionate **Web Developer** with a strong interest in JavaScript-based development and applied AI/Machine Learning. I enjoy building practical, data-driven applications and continuously improving my technical skills through real projects.
+A passionate **Web Development** Enthusiast with a strong interest in JavaScript-based development and applied AI/Machine Learning. I enjoy building practical, data-driven applications and continuously improving my technical skills through real projects.
 
 - Graduate of Web Development (Front-End & Back-End) program at [Dicoding](https://www.dicoding.com) (2024).
 - Mainly working with JavaScript for web-based applications.
